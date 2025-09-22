@@ -11,5 +11,5 @@ Shift Akhir    : A
 ## Tugas-2_Pertemuan-3<br>
 ![](Tugas%202_Pertemuan%203.gif)<br>
 
-##Tugas-3_Pertemuan-4<br>
-![](Tugas%203_Pertemuan%204.gif)<br>
+## Tugas-3_Pertemuan-4<br>
+![](Tugas%203%20Pertemuan%204.gif)<br>
