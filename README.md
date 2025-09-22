@@ -9,4 +9,7 @@ Shift Akhir    : A
 
 <br><br>
 ## Tugas-2_Pertemuan-3<br>
-![](Tugas%202_Pertemuan%203.gif)
+![](Tugas%202_Pertemuan%203.gif)<br>
+
+##Tugas-3_Pertemuan-4<br>
+![](Tugas%203_Pertemuan%204.gif)<br>
